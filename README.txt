@@ -1,0 +1,1 @@
+This project allows a user to create a user account, with which they can post NotTweets. NotTweets are short messages that are saved in the Datastore in the application's backend. NotTweets are unique to each user, and record the GPS coordinates of where the user was when they posted the NotTweet.
